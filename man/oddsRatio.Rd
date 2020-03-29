@@ -24,6 +24,7 @@ SpatialPoints or SpatialPolygons (or *DataFrame equivalent) of length 2
 }
 
 \examples{
+library(raster)
 # load North America boundary and global isoscape
 data("naMap")
 data("d2h_world")

@@ -58,6 +58,8 @@ Wunder, M.B., 2007. Geographic structure and dynamics in Mountain Plover. Doctor
 }
 
 \examples{
+library(raster)
+library(maptools)
 data("knownOrig")
 data("wrld_simpl")
 plot(wrld_simpl)
